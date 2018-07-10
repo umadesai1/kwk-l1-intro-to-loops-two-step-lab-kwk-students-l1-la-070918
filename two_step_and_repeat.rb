@@ -11,7 +11,7 @@ sleep(1)
 end
 
 first_steps
-
+loop do
 def a_few_more_steps
 puts "Right foot steps right and back"
 sleep (0.5)
@@ -24,7 +24,7 @@ sleep(1)
   end
   
  a_few_more_steps
-
+ def 
 
 def break_dance
   steps = 0
